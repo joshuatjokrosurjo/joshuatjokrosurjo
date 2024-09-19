@@ -1,2 +1,2 @@
 # Hello!
-👋 Hi, I’m @josh
+👋 Hi, I’m Josh
